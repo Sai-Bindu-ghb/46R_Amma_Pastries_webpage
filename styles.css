@@ -1,0 +1,153 @@
+.header-container{
+    /* border:4px solid blue; */
+    background-color: rgb(236, 109, 5);
+    height: 90px;
+    width:82%;
+     margin-left:9%;
+     border-radius: 15px;
+     display: flex;
+}
+.logo{
+    height:70px;
+    width:70px;
+    margin-top:6px;
+    margin-left:40px;
+}
+.anchor{
+    text-decoration: none;
+    color:black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+   margin-top:30px;
+      margin-left:15px;
+}
+
+#names{
+    background-color: rgb(236, 109, 5);
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-top:30px;
+      margin-left:25px;
+}
+#name2{
+    background-color: rgb(236, 109, 5);
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    margin-top:30px;
+      margin-left:50px;
+}
+.cart-icon{
+    margin-left:2%;
+    margin-top:23px;
+}
+.container {
+    /* border: 5px solid; */
+    /* height: 500px; */
+    /* width: 100%; */
+    margin-left:9%;
+    
+}
+
+.sub-container {
+    /* border: 5px solid orange; */
+    display: flex;
+     
+    flex-wrap: wrap;
+    /* height: 400px; */
+   
+    width: 100%;
+}
+
+.cake1 {
+    display: flex;
+  margin-left:10px;
+    height: 200px;
+    width: 400px;
+    margin-top:30px;
+    background-color: orange;
+      border-radius: 10px;
+
+}
+
+.image1 {
+       margin-left:10px;
+    height: 150px;
+    width: 150px;
+    margin-top: 25px;
+  
+}
+
+button {
+    border: none;
+    color:white;
+    background-color: rgb(235, 100, 4);
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+}
+.months-6 {
+    border: none;
+    color:white;
+    background-color: rgb(235, 100, 4);
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+}
+.months-budget{
+    border: none;
+    color:white;
+    background-color: rgb(235, 100, 4);
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+}
+.text1 {
+     margin-top: 18px;
+    margin-left: 22px;
+}
+
+.text-line1 {
+    font-size: 19px;
+    font-weight:bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    color: white;
+}
+.text-line2{
+    font-size:13px;
+    color:white;
+}
+.para-middle{
+    margin-left:34%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+    font-weight: bold;
+}
+.container-2{
+    /* border:4px solid blue; */
+    /* height:400px; */
+    /* width:100%; */
+    display: flex;
+    margin-left:9%;
+    margin-top:10px;
+    font-size:20px;
+    font-weight: bold;
+    color:rgb(181, 92, 9);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+marquee:hover{
+    color:rgb(81, 165, 42);
+}
+#container-new-flavours{
+    /* border: 5px solid orange; */
+    display: flex;
+     margin-left: 9%;
+    flex-wrap: wrap;
+    /* height: 400px; */
+   
+    /* width: 100%; */
+
+}
